@@ -38,6 +38,9 @@ public class SpeedReader {
 
         while (generator.hasNext()) {
             String word = generator.next();
+            g.setColor(Color.WHITE);
+            g.fillRect(0, 0, width, height);
+            g.setColor(Color.BLACK);
             g.drawString(word, 100, 100);
             Thread.sleep(sleepTime);
         }
