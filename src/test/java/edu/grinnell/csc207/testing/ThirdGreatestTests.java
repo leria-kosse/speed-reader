@@ -11,7 +11,7 @@ public class ThirdGreatestTests {
 	@Test
 	public void exampleUnitTest() {
 		int[] arr = { 3, 8, 4, 7, 2 };
-		assertEquals(4, Functions.thirdGreatest(arr));
+		assertEquals(4, Functions.thirdGreatest(arr)); 
 	}
 	
 	// TODO: add additional unit tests here!
