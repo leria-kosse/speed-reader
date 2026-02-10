@@ -3,11 +3,18 @@ package edu.grinnell.csc207.speedreader;
 import java.awt.*;
 import java.io.IOException;
 
-/** TODO: implement this class and add a doc comment! */
+/**
+ * SpeedReader displays text from a file one word at a time at a specified speed.
+ */
 public class SpeedReader {
     /**
-     * TODO: implement me and add an appropriate doc comment!
+     * This is the Main function that runs the speed reader application.
      * 
+     * Reads a text file and displays each word one by one in a window at the
+     * specified reading speed. After all words are displayed, reports statistics
+     * about the number of words and sentences processed.
+     * 
+     * @param args command-line arguments <filename> <width> <height> <font size> <wpm>
      * @throws IOException
      * @throws InterruptedException 
      */

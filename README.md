@@ -19,6 +19,12 @@ Week 3 Lab & Project: Speed-reader
 *   test2.txt: https://en.wikipedia.org/wiki/Super_Mario
 *   test3.txt: https://en.wikipedia.org/wiki/Clownfish
 *   test4.txt: https://en.wikipedia.org/wiki/Galaxy
+*   test5.txt: https://en.wikipedia.org/wiki/Greenland
+*   test6.txt: https://en.wikipedia.org/wiki/Sabellastarte_spectabilis
+*   test7.txt: https://en.wikipedia.org/wiki/Battle_of_Stalingrad
+*   test8.txt: https://en.wikipedia.org/wiki/Tennis
+
+* WordCounter: https://wordcounter.net
 
 
 
