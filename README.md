@@ -12,8 +12,10 @@ Week 3 Lab & Project: Speed-reader
 
 *   Lab Manual: https://osera.cs.grinnell.edu/ttap/data-structures-labs/semantic-mysteries.html
 *   Project Description: https://osera.cs.grinnell.edu/ttap/data-structures-labs/speed-reader.html
-*   VSCode
+*   VSCode + quickfix functionality for @throws
 *   `DrawingPanel.java` adapted from _[Building Java Programs](https://www.buildingjavaprograms.com/) by Reges and Stepp.
+*   Words per Minute explained(to understand the waiting time for displaying): https://muted.io/bpm-to-ms/#:~:text=Just%20take%2060%2C000%20(the%20amount,given%20a%20BPM%20of%20111:
+
 
 ## Write-up
 
