@@ -113,3 +113,8 @@ Same tendency is observed for count and the nr of times the array is accessed in
 - length 10000 or 100000: count uncomputable as the run is never completed (the program runs infinitely(ish))
 
 What we can observe is that compute1 takes the most computation power and time since its design involves another loop through the array. 
+
+
+### SpeedReader test - human computer interaction
+
+The results of this study reveal that normal, self-paced reading produced the best comprehension at 67% (across 3 students), so controlling your own speed remains the best practice for understanding text. There appears to be a comprehension threshold somewhere in the 350-500 wpm range. Some readers are able to maintain good comprehension at these higher speeds, while others experience significant drops in understanding. Most surprisingly though, slower speed reading at 250 WPM did not improve comprehension as expected, but performed worse than faster speeds, which could indicate that this pace is too slow to maintain reader engagement.
