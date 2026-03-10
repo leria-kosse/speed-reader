@@ -118,3 +118,35 @@ What we can observe is that compute1 takes the most computation power and time s
 ### SpeedReader test - human computer interaction
 
 The results of this study reveal that normal, self-paced reading produced the best comprehension at 67% (across 3 students), so controlling your own speed remains the best practice for understanding text. There appears to be a comprehension threshold somewhere in the 350-500 wpm range. Some readers are able to maintain good comprehension at these higher speeds, while others experience significant drops in understanding. Most surprisingly though, slower speed reading at 250 WPM did not improve comprehension as expected, but performed worse than faster speeds, which could indicate that this pace is too slow to maintain reader engagement.
+
+
+### Usability Testing
+For testing the usability of the speedreader we used texts 3, 4, 5, and 7, stored in text3.txt, text4.txt, text5.txt, and text7.txt respectively. We used the quiz stored in quiz.txt, where for each text there are 5 questions based on the content of the text read, e.g, What galaxy contains our Solar System?/Who named Greenland?/When did the Battle of Stalingrad end?.  
+Below is the participant breakdown for the 3 participants of our testing:
+
+Participant 1: Samiyah Ansari
+Email: ansarisa@grinnell.edu
+
+Quiz Breakdown:
+- Quiz 1 (Galaxies): 3/5 (60%) - read
+- Quiz 2 (Greenland): 0/5 (0%) - 250
+- Quiz 3 (Battle of Stalingrad): 2/5 (40%) - 500
+- Quiz 4 (Clownfish): 2/5 (40%) - 350
+
+Participant 2: Marusa Velikajne
+Email: velikajn@grinnell.edu
+
+Quiz Breakdown:
+- Quiz 1 (Galaxies): 3/5 (60%) - read
+- Quiz 2 (Greenland): 2/5 (40%) - 250
+- Quiz 3 (Battle of Stalingrad): 4/5 (80%) - 500
+- Quiz 4 (Clownfish): 3/5 (60%) - 350
+
+Participant 3: Alexander Doane
+Email: doaneale@grinnell.edu
+
+Quiz Breakdown:
+- Quiz 1 (Galaxies): 4/5 (60%) - read
+- Quiz 2 (Greenland): 3/5 (40%) - 250
+- Quiz 3 (Battle of Stalingrad): 3/5 (80%) - 500
+- Quiz 4 (Clownfish): 3/5 (60%) - 350
